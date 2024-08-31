@@ -1,2 +1,2 @@
-# LabBICO1
+# LabBIC01
 Repositorio BIC01
